@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="Content-Style-Type" content="text/css">
+		<meta http-equiv="Content-Script-Type" content="text/javascript">
+		<meta name="description" content="よりわかりやすい弔電システムをお届けします">
+		<meta name="keywords" content="弔電,スマート弔電,電報,スマデン,コスモスターズ,スマデンスターズ">
+		<title>スマート弔電 | 株式会社コスモスターズ</title>
+		<link rel="stylesheet" type="text/css" media="all" href="assets/css/style.css?20171024">
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108548532-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-108548532-1');
+		</script>
+	</head>
+	<body>
+		<div class="container">
+			<header class="header">
+				<ul class="ud-center">
+					<li><a href=""><img alt="スマート弔電アイコン" src="assets/img/smart_choden_icon.png"></a></li>
+					<li><a href="assets/pdf/Wi-Fi_Service_GuideR_for_Funeral.pdf"><img alt="葬儀社Wi-Fiアイコン" src="assets/img/wifi_icon.png" height="43"></a></li>
+					<li><img alt="葬儀ライブ配信アイコン" src="assets/img/funeral_live_streaming_icon.png" height="43"></li>
+					<li><img alt="電子受付システムアイコン" src="assets/img/system_icon.png"></li>
+				</ul>
+			</header>
+			<div class="content">
+				<div>
+					<div class="news">
+						<ul>
+							<li>・「月刊フューネラルビジネス」2017年11月号に広告掲載</li>
+							<li>・2018年3月末までのお申込みで「<span class="font-bold red">初期費用無料</span>」</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<footer>
+				<div class="footer">
+					<ul class="ud-left">
+						<li><a href=""><img alt="スマート弔電アイコン" src="assets/img/smart_choden_icon.png"></a></li>
+						<li><a href="assets/pdf/Wi-Fi_Service_GuideR_for_Funeral.pdf"><img alt="葬儀社Wi-Fiアイコン" src="assets/img/wifi_icon.png" height="43"></a></li>
+						<li><img alt="葬儀ライブ配信アイコン" src="assets/img/funeral_live_streaming_icon.png" height="43"></li>
+						<li><img alt="電子受付システムアイコン" src="assets/img/system_icon.png"></li>
+					</ul>
+				</div>
+				<div></div>
+			</footer>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,61 @@
+.container{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.container li{
+	list-style:none;
+}
+.header ul{
+	margin-left: 30%;
+	margin-right: 70%;
+	position: relative;
+	top: 95px;
+}
+.header li:not(:first-child),
+.footer ul li:not(:first-child) {
+	border-left: 1px solid blue;
+}
+.header li img,
+.footer ul li img {
+	width: 90px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.ud-center{
+	align-items    : center;
+	display        : flex;
+	justify-content: center;
+}
+.content{
+	background-image : url("../img/smart_choden_content.png?20171024_02");
+	background-repeat: no-repeat;
+	background-size: 900px 8526px;
+	background-position: center;
+	height: 8526px;
+	/* 元々スペルミスでスタイルが適用されていなかったためコメントアウト */
+	/* width: 950px; */
+}
+.news{
+	position: absolute;
+	top: 515px;
+	margin-left: 18%;
+}
+.news li{
+	line-height: 40px;
+}
+.red{
+	color:red;
+}
+.font-bold{
+	font-weight: bold;
+}
+.footer ul{
+	position: relative;
+	bottom: 130px;
+	margin-left: 14%;
+}
+.ud-left{
+	align-items: center;
+	display: flex;
+	justify-content: left;
+}
